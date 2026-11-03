@@ -1,0 +1,142 @@
+ACH,CellLineName,SIDM,HCMIID,PatientID,OncotreeLineage,OncotreeSubtype,ModelType,source_key,official_hcmi_from_nextgen_supp,NextGen_SourceLab,NextGen_SourceInstitution,IsNextGen
+ACH-000001,NIH:OVCAR-3,SIDM00105,,PT-gj46wT,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000013,ONCO-DG-1,SIDM00093,,PT-gj46wT,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000048,TOV-112D,SIDM01170,,PT-EehOTC,Ovary/Fallopian Tube,Endometrioid Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000091,OV56,SIDM00475,,PT-kmyeHR,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000103,Caov-4,SIDM00918,,PT-gCHPXX,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000116,OAW28,SIDM00481,,PT-eqFmWE,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000123,COV434,,,PT-hlFfQW,Ovary/Fallopian Tube,Small Cell Carcinoma of the Ovary,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000132,JHOS-2,SIDM00305,,PT-F6NvL5,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000173,JHUEM-3,,,PT-FarRYD,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000192,MFE-280,SIDM00335,,PT-Vhzgp5,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000237,JHOM-1,,,PT-wwKJYr,Ovary/Fallopian Tube,Mucinous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000256,COV318,,,PT-qexSkk,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000278,COV362,,,PT-BexFYH,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000280,SNU-840,,,PT-S0isOw,Ovary/Fallopian Tube,"Brenner Tumor, Malignant",Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000291,OV-90,SIDM01141,,PT-MtLxSF,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000293,KLE,SIDM00686,,PT-tjaCAG,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000302,SNU-1077,SIDM00166,,PT-SeH5WZ,Uterus,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000308,EFO-21,SIDM01052,,PT-cdCVJ4,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000324,JHOC-5,,,PT-CrEQoF,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000333,JHOM-2B,,,PT-60XjJv,Ovary/Fallopian Tube,Mucinous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000397,TEN,,,PT-lpuBPT,Uterus,Uterine Clear Cell Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000407,SNU-685,SIDM00165,,PT-iaJKdg,Uterus,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000409,OVSAHO,,,PT-eYKUfI,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000430,TYK-nu,SIDM00321,,PT-z46I0M,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000435,EFE-184,,,PT-HWnYva,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000443,OVKATE,SIDM00466,,PT-9fFef6,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000449,MES-SA,SIDM00625,,PT-E7giyP,Uterus,Uterine Sarcoma/Mesenchymal,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000460,SNU-8,,,PT-OIFKmV,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000494,OELE,,,PT-dZGXnc,Ovary/Fallopian Tube,Immortalized Ovarian Cells,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000520,59M,,,PT-tv8Ku2,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000524,KURAMOCHI,SIDM00554,,PT-6ZFCGi,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000527,OVISE,SIDM00564,,PT-oYazft,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000542,Hey-A8,SIDM01215,,PT-0hMOxQ,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000574,FU-OV-1,SIDM01040,,PT-WpzPv5,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000584,JHOS-4,SIDM00303,,PT-g4qhEH,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000608,COV644,,,PT-lr2HyG,Ovary/Fallopian Tube,Mucinous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000617,OVCAR-4,SIDM00092,,PT-hZYskw,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000635,SNU-119,,,PT-vHYCC2,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000646,OVMANA,,,PT-nonBNX,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000657,A2780,SIDM00210,,PT-ug3gCf,Ovary/Fallopian Tube,Endometrioid Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000663,OVTOKO,SIDM00425,,PT-kymkHN,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000688,OV7,SIDM00474,,PT-iVAxAa,Ovary/Fallopian Tube,Mixed Ovarian Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000696,OVCAR-8,SIDM00090,,PT-AlUnJX,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000701,RMUG-S,,,PT-ColGZ0,Ovary/Fallopian Tube,Mucinous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000704,OAW42,SIDM00480,,PT-9pirK7,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000713,Caov-3,SIDM00919,,PT-FQOeFS,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000719,RMG-I,SIDM00352,,PT-bnZfQQ,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000796,MCAS,SIDM00008,,PT-Tlf0ul,Ovary/Fallopian Tube,Mucinous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000811,SK-OV-3,SIDM00079,,PT-RV3Y6W,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000831,HEC-50B,,,PT-cmj7jX,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000864,COLO 684,SIDM00142,,PT-8fO9EH,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000879,MFE-296,SIDM00334,,PT-wMzIqz,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000885,TOV-21G,SIDM01169,,PT-6zI98h,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000906,ES-2,SIDM00861,,PT-rH0cpo,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000909,JHUEM-2,,,PT-4c7WBs,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000913,ESS-1,SIDM01043,,PT-6MnPg3,Uterus,Endometrial Stromal Sarcoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000928,JHUEM-1,,,PT-C2kgmR,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000936,EFO-27,SIDM01051,,PT-AiIzwN,Ovary/Fallopian Tube,Mucinous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000939,SK-UT-1,SIDM01113,,PT-b2KmUs,Uterus,Uterine Leiomyosarcoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000940,AN3 CA,SIDM00901,,PT-P1Vdpe,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000941,HEC-1-B,SIDM01241,,PT-YZF57N,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000946,HEC-265,,,PT-ANEQ4x,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000947,OVK18,SIDM00238,,PT-MsM9mi,Ovary/Fallopian Tube,Endometrioid Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000954,HEC-1-A,SIDM00595,,PT-YZF57N,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000961,Ishikawa (Heraklio) 02 ER-,SIDM00037,,PT-P06fLR,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000962,OC 314,SIDM00220,,PT-3doOpy,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000965,RL95-2,SIDM01088,,PT-de7J0H,Uterus,Uterine Adenosquamous Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000966,IGROV1,SIDM00151,,PT-bGFaJu,Ovary/Fallopian Tube,Endometrioid Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000972,HEC-151,,,PT-KBFu4S,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000974,SNG-M,SIDM00373,,PT-cgXnS7,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000978,EN,SIDM01045,,PT-bmKWJL,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000984,HEC-6,,,PT-UZ2uk5,Uterus,Uterine Adenosquamous Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000988,MFE-319,SIDM00333,,PT-blqauC,Uterus,Uterine Adenosquamous Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000990,HEC-108,,,PT-7DaBfX,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000993,JHUEM-7,,,PT-MEVEw0,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000994,HEC-59,,,PT-9r7KW8,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-000996,HEC-251,,,PT-GnDRP6,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001042,COLO-704,,,PT-8fO9EH,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001048,COV504,,,PT-gZt1Og,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001063,DOV13,SIDM00969,,PT-zAzHh6,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001144,OC315,,,PT-3doOpy,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001145,OC 316,SIDM00219,,PT-3doOpy,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001151,OVCAR-5,SIDM00091,,PT-u4FBpq,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001278,BIN-67,,,PT-ZkKui4,Ovary/Fallopian Tube,Small Cell Carcinoma of the Ovary,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001279,SCCOHT-1,,,PT-z5pG5i,Ovary/Fallopian Tube,Small Cell Carcinoma of the Ovary,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001340,COV413A,,,PT-G1dQTb,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001369,OCI-C5x,,,PT-0GisSs,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001370,OCI-P5x,,,PT-rC8bwa,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001373,OV17R,SIDM00476,,PT-ND5kWh,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001374,PA-1 [PA1],SIDM01140,,PT-EoMkUH,Ovary/Fallopian Tube,Mixed Germ Cell Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001403,TO14,,,PT-tuE0iI,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001418,UWB1.289,SIDM00815,,PT-JGzDYG,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001495,EMTOKA,,,PT-bHINin,Uterus,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001512,HAC-2,,,PT-w3Ytiz,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001517,HEC-1,SIDM00596,,PT-YZF57N,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001518,HEC-116,,,PT-emUGGo,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001529,JAR,SIDM01039,,PT-RI1Xeu,Uterus,Choriocarcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001530,JEG-3,SIDM01218,,PT-hB4ARO,Uterus,Choriocarcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001628,PEA1,,,PT-i3tIXN,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001630,PEO1,SIDM00472,,PT-FMp5RI,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001632,PEO4,SIDM00471,,PT-FMp5RI,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001633,PEO6,SIDM00470,,PT-FMp5RI,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001655,SKN,SIDM00377,,PT-yc0xLp,Uterus,Uterine Leiomyosarcoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001719,OCI-C4P,,,PT-l7kiMr,Ovary/Fallopian Tube,Clear Cell Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-001991,NZOV9,,,PT-WTNLuu,Ovary/Fallopian Tube,Endometrioid Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002021,T3M-3,,,PT-UGz23U,Uterus,Choriocarcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002026,HHUA,,,PT-cgXnS7,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002027,HOUA-I,,,PT-vIwQtl,Uterus,Endometrial Carcinoma,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002038,HSKTC,,,PT-BC5ORj,Ovary/Fallopian Tube,"Ovarian Cancer, Other",Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002046,HTMMT,,,PT-SKC9qY,Uterus,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002047,HIRS-BM,,,PT-pzAgyf,Uterus,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002140,Hey,SIDM00968,,PT-0hMOxQ,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002146,JHOS-3,SIDM00304,,PT-Y025ut,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002149,KGN,SIDM00302,,PT-yB2Czj,Ovary/Fallopian Tube,Granulosa Cell Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002181,OVCA420,SIDM00967,,PT-B4cHwN,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002182,OVCA433,SIDM00966,,PT-SEFFqc,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002183,OVMIU,SIDM00465,,PT-BYEuke,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002419,CCLF_OVPA_0001_T,,HCM-BROD-1117-C56,PT-C2rTme,Uterus,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002486,MES-OV,,,PT-pyZjZu,Ovary/Fallopian Tube,Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002524,SNU-251,,,PT-itoB60,Ovary/Fallopian Tube,Endometrioid Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-002648,CX-03,,,PT-u9AiP6,Uterus,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-003001,19-93,,,PT-CBPf4d,Ovary/Fallopian Tube,Low-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003003,18-47,,,PT-m9b3Xg,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003005,20-36,,,PT-kbuuQX,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003007,20-35,,,PT-yHD2bN,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003009,17-39,,,PT-2iBKku,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003011,20-44,,,PT-nziTpB,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003050,4193,,,PT-f2PYJP,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003051,17-134,,,PT-GDcMB0,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003053,5072,,,PT-xI4mfd,Ovary/Fallopian Tube,Low-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003054,17-121,,,PT-XJxQp0,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003056,20-11,,,PT-l5NEzY,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003165,OVPA-8,,,PT-NIz0S6,Ovary/Fallopian Tube,High-Grade Serous Ovarian Cancer,Cell Line,DepMap_26Q3_Model.csv,,,,False
+ACH-003238,4329,,,PT-VbblkK,Uterus,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003239,4392,,,PT-DQfIHl,Uterus,Uterine Endometrioid Carcinoma,Organoid,DepMap_26Q3_Model.csv,,Sarah Hill,Dana-Farber Cancer Institute,True
+ACH-003350,HCM-WCMC-0673-C56-A,,HCM-WCMC-0673-C56-A,PT-aAZ8jl,Ovary/Fallopian Tube,Mucinous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,HCM-WCMC-0673-C56-A,Human Cancer Models Initiative (HCMI),ATCC,True
+ACH-003709,HCM-CSHL-0806-C54,,HCM-CSHL-0806-C54,PT-apwl7i,Uterus,Uterine Mixed Endometrial Carcinoma,Organoid,DepMap_26Q3_Model.csv,HCM-CSHL-0806-C54,Human Cancer Models Initiative (HCMI),ATCC,True
+ACH-003710,HCM-CSHL-0810-C54,,HCM-CSHL-0810-C54,PT-94ut6c,Uterus,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,Organoid,DepMap_26Q3_Model.csv,HCM-CSHL-0810-C54,Human Cancer Models Initiative (HCMI),ATCC,True
+ACH-003711,HCM-CSHL-0811-C55,,HCM-CSHL-0811-C55,PT-a92iiq,Uterus,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,Organoid,DepMap_26Q3_Model.csv,HCM-CSHL-0811-C55,Human Cancer Models Initiative (HCMI),ATCC,True
+ACH-003723,HCM-WCMC-0673-C56-B,,HCM-WCMC-0673-C56-B,PT-aAZ8jl,Ovary/Fallopian Tube,Mucinous Ovarian Cancer,Organoid,DepMap_26Q3_Model.csv,HCM-WCMC-0673-C56-B,Human Cancer Models Initiative (HCMI),ATCC,True
+ACH-003903,524_T1,,,PT-c7p0og,Uterus,Uterine Endometrioid Carcinoma,Organoid,DepMap_26Q3_Model.csv,,Eva Colas Ortega,Vall d´Hebron Institute of Research,True

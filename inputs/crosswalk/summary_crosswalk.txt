@@ -1,0 +1,21 @@
+CROSSWALK SUMMARY (DepMap 26Q3 Model.csv merged 2026-10-07, Asia/Shanghai)
+Primary keys: DepMap 26Q3 Model.csv (HCMIID / SangerModelID) + NextGen Nature Supp Table 1 Cell Line Name
+DepMap 26Q3 Model.csv: DepMap Public 26Q3 (downloaded 2026-10-07; 789,805 bytes; 2,554 models; HCMIID non-null genome-wide 215)
+NextGen evidence: Neiswender et al. 2026 (Nature) Supplementary Table 1, gynaecological models (n=19)
+Total gyn (Ovary/Fallopian/Uterus) crosswalk rows: 141
+  Cell Line: 122; Organoid: 19
+SIDM (SangerModelID) non-null: 68/141 gyn; among Cell Line: 68/122
+Official HCMIID non-null (26Q3 Model.csv and/or Supp Table 1): 6/141 gyn
+Among Cell Line: HCMIID 1/122
+Among Organoid: HCMIID 5/19
+ACH+SIDM+HCMIID official triples: 0
+NextGen gyn organoids in 26Q3: 19/19 from Supp Table 1
+Official NextGen↔HCMI pairs (5): all present in 26Q3 with matching HCMIID:
+  ACH-003350 ↔ HCM-WCMC-0673-C56-A
+  ACH-003709 ↔ HCM-CSHL-0806-C54
+  ACH-003710 ↔ HCM-CSHL-0810-C54
+  ACH-003711 ↔ HCM-CSHL-0811-C55
+  ACH-003723 ↔ HCM-WCMC-0673-C56-B
+ACH-003903 (524_T1, Vall d'Hebron): in 26Q3; HCMIID empty (not HCMI-derived) — validation 0 FP control
+Multi-omic identity check remains validation layer: recovered official 5/5; ACH-003903 not falsely called.
+This 26Q3-merged crosswalk supersedes an earlier version built from DepMap 26Q1 Model.csv.
