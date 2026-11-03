@@ -1,0 +1,20 @@
+title,gsm,tissue,histotype,count_col,histotype_short
+CCOC-1_RNA-seq,GSM3426189,Clear cell ovarian cancer,CCOC,KL01-NEBindex1_S1_R1_001,CCC
+CCOC-2_RNA-seq,GSM3426190,Clear cell ovarian cancer,CCOC,KL02-NEBindex2_S2_R1_001,CCC
+CCOC-3_RNA-seq,GSM3426191,Clear cell ovarian cancer,CCOC,KL03-NEBindex3_S3_R1_001,CCC
+CCOC-4_RNA-seq,GSM3426192,Clear cell ovarian cancer,CCOC,KL04-NEBindex4_S4_R1_001,CCC
+CCOC-5_RNA-seq,GSM3426193,Clear cell ovarian cancer,CCOC,KL05-NEBindex5_S5_R1_001,CCC
+EnOC-1_RNA-seq,GSM3426194,Endometrioid ovarian cancer,EnOC,KL06-NEBindex6_S6_R1_001,EC
+EnOC-2_RNA-seq,GSM3426195,Endometrioid ovarian cancer,EnOC,KL07-NEBindex7_S7_R1_001,EC
+EnOC-4_RNA-seq,GSM3426196,Endometrioid ovarian cancer,EnOC,KL08-NEBindex8_S8_R1_001,EC
+EnOC-5_RNA-seq,GSM3426197,Endometrioid ovarian cancer,EnOC,KL09-NEBindex9_S9_R1_001,EC
+HGSOC-1_RNA-seq,GSM3426198,High-grade serous ovarian cancer,HGSOC,KL10-NEBindex10_S10_R1_001,HGSC
+HGSOC-2_RNA-seq,GSM3426199,High-grade serous ovarian cancer,HGSOC,KL11-NEBindex11_S11_R1_001,HGSC
+HGSOC-3_RNA-seq,GSM3426200,High-grade serous ovarian cancer,HGSOC,KL12-NEBindex12_S12_R1_001,HGSC
+HGSOC-4_RNA-seq,GSM3426201,High-grade serous ovarian cancer,HGSOC,KL13-NEBindex13_S13_R1_001,HGSC
+HGSOC-5_RNA-seq,GSM3426202,High-grade serous ovarian cancer,HGSOC,KL14-NEBindex14_S14_R1_001,HGSC
+MOC-1_RNA-seq,GSM3426203,Mucinous ovarian cancer,MOC,KL15-NEBindex15_S15_R1_001,MC
+MOC-2_RNA-seq,GSM3426204,Mucinous ovarian cancer,MOC,KL16-NEBindex16_S16_R1_001,MC
+MOC-3_RNA-seq,GSM3426205,Mucinous ovarian cancer,MOC,KL17-NEBindex18_S17_R1_001,MC
+MOC-4_RNA-seq,GSM3426206,Mucinous ovarian cancer,MOC,KL18-NEBindex19_S18_R1_001,MC
+MOC-5_RNA-seq,GSM3426207,Mucinous ovarian cancer,MOC,KL19-NEBindex20_S19_R1_001,MC
