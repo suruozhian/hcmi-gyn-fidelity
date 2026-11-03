@@ -1,0 +1,11 @@
+{
+ "file": "hgnc_complete_set.txt",
+ "source_url": "https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt",
+ "publisher": "HUGO Gene Nomenclature Committee (HGNC), complete set (current release)",
+ "server_last_modified": "2026-10-06 13:38:36 GMT (2026-10-06 21:38 Asia/Shanghai)",
+ "downloaded": "2026-10-08 10:07 Asia/Shanghai",
+ "md5": "af43fd56a64ad57c0fcc72d6ef65e516",
+ "bytes": 16973125,
+ "records": 45233,
+ "columns_used": ["symbol", "prev_symbol", "entrez_id", "ensembl_gene_id", "status"]
+}
