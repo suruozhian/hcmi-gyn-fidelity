@@ -1,0 +1,78 @@
+{
+ "tables": {
+  "sources": {
+   "n": 1,
+   "stem": "data_sources"
+  },
+  "selection": {
+   "n": 2,
+   "stem": "model_selection_annotation"
+  },
+  "identity": {
+   "n": 3,
+   "stem": "nextgen_hcmi_identity"
+  },
+  "confusion": {
+   "n": 4,
+   "stem": "confusion_matrices"
+  },
+  "methodB": {
+   "n": 5,
+   "stem": "MethodB_celligner_like"
+  },
+  "release": {
+   "n": 6,
+   "stem": "DepMap_24Q4_vs_26Q3_unit_changes"
+  },
+  "sensitivity": {
+   "n": 7,
+   "stem": "reference_sensitivity"
+  },
+  "histotype": {
+   "n": 8,
+   "stem": "ovarian_histotype_calls"
+  },
+  "cptac": {
+   "n": 9,
+   "stem": "cptac_rule_evaluation"
+  },
+  "uterine": {
+   "n": 10,
+   "stem": "uterine_units_classes"
+  },
+  "tmp": {
+   "n": 11,
+   "stem": "HCMI_TMP_consistency"
+  }
+ },
+ "figures": {
+  "confusion": {
+   "n": 1,
+   "stem": "confusion_heatmaps"
+  },
+  "methodB": {
+   "n": 2,
+   "stem": "MethodB_confusion_heatmap"
+  },
+  "celligner": {
+   "n": 3,
+   "stem": "published_celligner_context"
+  },
+  "refcomp": {
+   "n": 4,
+   "stem": "reference_composition"
+  },
+  "equal_depth": {
+   "n": 5,
+   "stem": "equal_depth_sensitivity"
+  },
+  "histotype": {
+   "n": 6,
+   "stem": "ovarian_histotype_centring"
+  },
+  "surrogate": {
+   "n": 7,
+   "stem": "hcmi_endometrial_surrogate"
+  }
+ }
+}

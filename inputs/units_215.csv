@@ -1,0 +1,216 @@
+dataset,model_unit,lineage,histology,model_format,patient,indep_key,stratum,is_org
+HCMI,HCM-BROD-0476-C56,ovary,OV_serous,organoid,HCM-BROD-0476-C56,HCMI:HCM-BROD-0476-C56,HGSC,True
+HCMI,HCM-BROD-0650-C56,ovary,OV_serous,organoid,HCM-BROD-0650-C56,HCMI:HCM-BROD-0650-C56,HGSC,True
+HCMI,HCM-BROD-0958-C56,ovary,OV_endometrioid,organoid,HCM-BROD-0958-C56,HCMI:HCM-BROD-0958-C56,nonHGSC,True
+HCMI,HCM-BROD-1117-C56,ovary,OV_mullerian_mixed,organoid,HCM-BROD-1117-C56,HCMI:HCM-BROD-1117-C56,nonHGSC,True
+HCMI,HCM-BROD-1129-C56,ovary,OV_serous,organoid,HCM-BROD-1129-C56,HCMI:HCM-BROD-1129-C56,HGSC,True
+HCMI,HCM-CSHL-0467-C56,ovary,OV_serous,organoid,HCM-CSHL-0467-C56,HCMI:HCM-CSHL-0467-C56,HGSC,True
+HCMI,HCM-CSHL-0516-C56,ovary,OV_borderline,organoid,HCM-CSHL-0516-C56,HCMI:HCM-CSHL-0516-C56,nonHGSC,True
+HCMI,HCM-CSHL-0639-C56,ovary,OV_borderline,organoid,HCM-CSHL-0639-C56,HCMI:HCM-CSHL-0639-C56,nonHGSC,True
+HCMI,HCM-CSHL-0699-C56,ovary,OV_endometrioid,organoid,HCM-CSHL-0699-C56,HCMI:HCM-CSHL-0699-C56,nonHGSC,True
+HCMI,HCM-CSHL-0765-C56,ovary,OV_serous,organoid,HCM-CSHL-0765-C56,HCMI:HCM-CSHL-0765-C56,HGSC,True
+HCMI,HCM-CSHL-0768-C56,ovary,OV_serous,organoid,HCM-CSHL-0768-C56,HCMI:HCM-CSHL-0768-C56,HGSC,True
+HCMI,HCM-CSHL-0801-C56,ovary,OV_clear_cell,organoid,HCM-CSHL-0801-C56,HCMI:HCM-CSHL-0801-C56,nonHGSC,True
+HCMI,HCM-CSHL-0803-C54,uterus,UT_carcinosarcoma,organoid,HCM-CSHL-0803-C54,HCMI:HCM-CSHL-0803-C54,CS,True
+HCMI,HCM-CSHL-0806-C54,uterus,UT_serous,organoid,HCM-CSHL-0806-C54,HCMI:HCM-CSHL-0806-C54,EC,True
+HCMI,HCM-CSHL-0807-C54,uterus,UT_undifferentiated,organoid,HCM-CSHL-0807-C54,HCMI:HCM-CSHL-0807-C54,EC,True
+HCMI,HCM-CSHL-0808-C55,uterus,UT_serous,organoid,HCM-CSHL-0808-C55,HCMI:HCM-CSHL-0808-C55,EC,True
+HCMI,HCM-CSHL-0809-C54,uterus,UT_serous,organoid,HCM-CSHL-0809-C54,HCMI:HCM-CSHL-0809-C54,EC,True
+HCMI,HCM-CSHL-0810-C54,uterus,UT_serous,organoid,HCM-CSHL-0810-C54,HCMI:HCM-CSHL-0810-C54,EC,True
+HCMI,HCM-CSHL-0811-C55,uterus,UT_undifferentiated,organoid,HCM-CSHL-0811-C55,HCMI:HCM-CSHL-0811-C55,EC,True
+HCMI,HCM-CSHL-0812-C54,uterus,UT_mixed,organoid,HCM-CSHL-0812-C54,HCMI:HCM-CSHL-0812-C54,EC,True
+HCMI,HCM-CSHL-0814-C54,uterus,UT_serous,organoid,HCM-CSHL-0814-C54,HCMI:HCM-CSHL-0814-C54,EC,True
+HCMI,HCM-CSHL-0818-C56,ovary,OV_serous,organoid,HCM-CSHL-0818-C56,HCMI:HCM-CSHL-0818-C56,HGSC,True
+HCMI,HCM-CSHL-0853-C56,ovary,OV_serous,organoid,HCM-CSHL-0853-C56,HCMI:HCM-CSHL-0853-C56,HGSC,True
+HCMI,HCM-CSHL-0868-C56,ovary,OV_serous,organoid,HCM-CSHL-0868-C56,HCMI:HCM-CSHL-0868-C56,HGSC,True
+HCMI,HCM-CSHL-0900-C54,uterus,UT_serous,organoid,HCM-CSHL-0900-C54,HCMI:HCM-CSHL-0900-C54,EC,True
+HCMI,HCM-STAN-1277-C55,uterus,UT_carcinosarcoma,organoid,HCM-STAN-1277-C55,HCMI:HCM-STAN-1277-C55,CS,True
+HCMI,HCM-WCMC-0673-C56,ovary,OV_mucinous,organoid,HCM-WCMC-0673-C56,HCMI:HCM-WCMC-0673-C56,nonHGSC,True
+HCMI,HCM-WCMC-0751-C54,uterus,UT_endometrioid,organoid,HCM-WCMC-0751-C54,HCMI:HCM-WCMC-0751-C54,EC,True
+HCMI,HCM-WCMC-0753-C54,uterus,UT_endometrioid,organoid,HCM-WCMC-0753-C54,HCMI:HCM-WCMC-0753-C54,EC,True
+HCMI,HCM-WCMC-1074-C56,ovary,OV_mucinous,organoid,HCM-WCMC-1074-C56,HCMI:HCM-WCMC-1074-C56,nonHGSC,True
+HCMI,HCM-WCMC-1280-C54,uterus,UT_endometrioid,organoid,HCM-WCMC-1280-C54,HCMI:HCM-WCMC-1280-C54,EC,True
+HCMI,HCM-WCMC-1285-C54,uterus,UT_endometrioid,organoid,HCM-WCMC-1285-C54,HCMI:HCM-WCMC-1285-C54,EC,True
+HCMI,HCM-WCMC-1340-C54,uterus,UT_serous,organoid,HCM-WCMC-1340-C54,HCMI:HCM-WCMC-1340-C54,EC,True
+Sanger_organoids,WTSI-OVAR_018,ovary,OV_HGSC,organoid,2172198,SGO:2172198,HGSC,True
+Sanger_organoids,WTSI-OVAR_025,ovary,OV_HGSC,organoid,2179614,SGO:2179614,HGSC,True
+Sanger_organoids,WTSI-OVAR_036,ovary,OV_HGSC,organoid,2183036,SGO:2183036,HGSC,True
+Sanger_organoids,WTSI-OVAR_044,ovary,OV_HGSC,organoid,2185408,SGO:2185408,HGSC,True
+Sanger_organoids,WTSI-OVAR_062,ovary,OV_HGSC,organoid,2197367,SGO:2197367,HGSC,True
+Sanger_organoids,WTSI-OVAR_063,ovary,OV_HGSC,organoid,2197573,SGO:2197573,HGSC,True
+Sanger_organoids,WTSI-OVAR_067,ovary,OV_HGSC,organoid,2198944,SGO:2198944,HGSC,True
+Sanger_organoids,WTSI-OVAR_071,ovary,OV_mixed,organoid,2199056,SGO:2199056,nonHGSC,True
+Sanger_organoids,WTSI-OVAR_087,ovary,OV_HGSC,organoid,2201631,SGO:2201631,HGSC,True
+Sanger_organoids,WTSI-OVAR_091,ovary,OV_HGSC,organoid,2201865,SGO:2201865,HGSC,True
+Sanger_organoids,WTSI-OVAR_094,ovary,OV_HGSC,organoid,2203199,SGO:2203199,HGSC,True
+Sanger_organoids,WTSI-OVAR_095,ovary,OV_HGSC,organoid,2203200,SGO:2203200,HGSC,True
+Sanger_organoids,WTSI-OVAR_098,ovary,OV_HGSC,organoid,2203330,SGO:2203330,HGSC,True
+Sanger_organoids,WTSI-OVAR_102,ovary,OV_HGSC,organoid,2203959,SGO:2203959,HGSC,True
+Sanger_organoids,WTSI-OVAR_106,ovary,OV_unknown,organoid,2205737,SGO:2205737,nonHGSC,True
+Sanger_organoids,WTSI-OVAR_107,ovary,OV_HGSC,organoid,2206315,SGO:2206315,HGSC,True
+Sanger_organoids,WTSI-OVAR_108,ovary,OV_HGSC,organoid,2206689,SGO:2206689,HGSC,True
+Sanger_organoids,WTSI-OVAR_109,ovary,OV_clear_cell,organoid,2207117,SGO:2207117,nonHGSC,True
+DepMap_NextGen,ACH-003001,ovary,OV_LGSC,organoid,ACH-003001,NG:ACH-003001,nonHGSC,True
+DepMap_NextGen,ACH-003003,ovary,OV_HGSC,organoid,ACH-003003,NG:ACH-003003,HGSC,True
+DepMap_NextGen,ACH-003005,ovary,OV_HGSC,organoid,ACH-003005,NG:ACH-003005,HGSC,True
+DepMap_NextGen,ACH-003007,ovary,OV_HGSC,organoid,ACH-003007,NG:ACH-003007,HGSC,True
+DepMap_NextGen,ACH-003009,ovary,OV_HGSC,organoid,ACH-003009,NG:ACH-003009,HGSC,True
+DepMap_NextGen,ACH-003011,ovary,OV_HGSC,organoid,ACH-003011,NG:ACH-003011,HGSC,True
+DepMap_NextGen,ACH-003050,ovary,OV_HGSC,organoid,ACH-003050,NG:ACH-003050,HGSC,True
+DepMap_NextGen,ACH-003051,ovary,OV_HGSC,organoid,ACH-003051,NG:ACH-003051,HGSC,True
+DepMap_NextGen,ACH-003053,ovary,OV_LGSC,organoid,ACH-003053,NG:ACH-003053,nonHGSC,True
+DepMap_NextGen,ACH-003054,ovary,OV_HGSC,organoid,ACH-003054,NG:ACH-003054,HGSC,True
+DepMap_NextGen,ACH-003056,ovary,OV_HGSC,organoid,ACH-003056,NG:ACH-003056,HGSC,True
+DepMap_NextGen,ACH-003238,uterus,UT_carcinosarcoma,organoid,ACH-003238,NG:ACH-003238,CS,True
+DepMap_NextGen,ACH-003903,uterus,UT_endometrioid,organoid,ACH-003903,NG:ACH-003903,EC,True
+GSE208216,PDO1,ovary,OV_HGSC,organoid,PDO1,GSE208216:PDO1,HGSC,True
+GSE208216,PDO10,ovary,OV_HGSC,organoid,PDO10,GSE208216:PDO10,HGSC,True
+GSE208216,PDO11,ovary,OV_HGSC,organoid,PDO11,GSE208216:PDO11,HGSC,True
+GSE208216,PDO12,ovary,OV_HGSC,organoid,PDO12,GSE208216:PDO12,HGSC,True
+GSE208216,PDO15,ovary,OV_HGSC,organoid,PDO15,GSE208216:PDO15,HGSC,True
+GSE208216,PDO2,ovary,OV_HGSC,organoid,PDO2,GSE208216:PDO2,HGSC,True
+GSE208216,PDO3,ovary,OV_HGSC,organoid,PDO3,GSE208216:PDO3,HGSC,True
+GSE208216,PDO5,ovary,OV_HGSC,organoid,PDO5,GSE208216:PDO5,HGSC,True
+GSE208216,PDO6,ovary,OV_HGSC,organoid,PDO6,GSE208216:PDO6,HGSC,True
+GSE208216,PDO7,ovary,OV_HGSC,organoid,PDO7,GSE208216:PDO7,HGSC,True
+GSE208216,PDO8,ovary,OV_HGSC,organoid,PDO8,GSE208216:PDO8,HGSC,True
+DepMap_24Q4,ACH-000001,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-gj46wT,DM:PT-gj46wT,HGSC,False
+DepMap_24Q4,ACH-000048,ovary,OV_endometrioid,2D/suspension cell line (Adherent),PT-EehOTC,DM:PT-EehOTC,nonHGSC,False
+DepMap_24Q4,ACH-000091,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-kmyeHR,DM:PT-kmyeHR,serous_NOS,False
+DepMap_24Q4,ACH-000103,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-gCHPXX,DM:PT-gCHPXX,HGSC,False
+DepMap_24Q4,ACH-000116,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-eqFmWE,DM:PT-eqFmWE,HGSC,False
+DepMap_24Q4,ACH-000132,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-F6NvL5,DM:PT-F6NvL5,HGSC,False
+DepMap_24Q4,ACH-000173,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-FarRYD,DM:PT-FarRYD,EC,False
+DepMap_24Q4,ACH-000192,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-Vhzgp5,DM:PT-Vhzgp5,EC,False
+DepMap_24Q4,ACH-000237,ovary,OV_mucinous,2D/suspension cell line (Adherent),PT-wwKJYr,DM:PT-wwKJYr,nonHGSC,False
+DepMap_24Q4,ACH-000256,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-qexSkk,DM:PT-qexSkk,HGSC,False
+DepMap_24Q4,ACH-000278,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-BexFYH,DM:PT-BexFYH,HGSC,False
+DepMap_24Q4,ACH-000291,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-MtLxSF,DM:PT-MtLxSF,serous_NOS,False
+DepMap_24Q4,ACH-000293,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-tjaCAG,DM:PT-tjaCAG,EC,False
+DepMap_24Q4,ACH-000302,uterus,UT_carcinosarcoma,2D/suspension cell line (Adherent),PT-SeH5WZ,DM:PT-SeH5WZ,CS,False
+DepMap_24Q4,ACH-000308,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-cdCVJ4,DM:PT-cdCVJ4,serous_NOS,False
+DepMap_24Q4,ACH-000324,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-CrEQoF,DM:PT-CrEQoF,nonHGSC,False
+DepMap_24Q4,ACH-000333,ovary,OV_mucinous,2D/suspension cell line (Adherent),PT-60XjJv,DM:PT-60XjJv,nonHGSC,False
+DepMap_24Q4,ACH-000397,uterus,UT_clear_cell,2D/suspension cell line (Adherent),PT-lpuBPT,DM:PT-lpuBPT,EC,False
+DepMap_24Q4,ACH-000407,uterus,UT_carcinosarcoma,2D/suspension cell line (Adherent),PT-iaJKdg,DM:PT-iaJKdg,CS,False
+DepMap_24Q4,ACH-000409,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-eYKUfI,DM:PT-eYKUfI,HGSC,False
+DepMap_24Q4,ACH-000430,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-z46I0M,DM:PT-z46I0M,HGSC,False
+DepMap_24Q4,ACH-000435,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-HWnYva,DM:PT-HWnYva,EC,False
+DepMap_24Q4,ACH-000443,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-9fFef6,DM:PT-9fFef6,HGSC,False
+DepMap_24Q4,ACH-000460,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-OIFKmV,DM:PT-OIFKmV,serous_NOS,False
+DepMap_24Q4,ACH-000520,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-tv8Ku2,DM:PT-tv8Ku2,HGSC,False
+DepMap_24Q4,ACH-000524,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-6ZFCGi,DM:PT-6ZFCGi,HGSC,False
+DepMap_24Q4,ACH-000527,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-oYazft,DM:PT-oYazft,nonHGSC,False
+DepMap_24Q4,ACH-000542,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-0hMOxQ,DM:PT-0hMOxQ,HGSC,False
+DepMap_24Q4,ACH-000574,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-WpzPv5,DM:PT-WpzPv5,HGSC,False
+DepMap_24Q4,ACH-000584,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-g4qhEH,DM:PT-g4qhEH,HGSC,False
+DepMap_24Q4,ACH-000608,ovary,OV_mucinous,2D/suspension cell line (Adherent),PT-lr2HyG,DM:PT-lr2HyG,nonHGSC,False
+DepMap_24Q4,ACH-000617,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-hZYskw,DM:PT-hZYskw,HGSC,False
+DepMap_24Q4,ACH-000635,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-vHYCC2,DM:PT-vHYCC2,HGSC,False
+DepMap_24Q4,ACH-000646,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-nonBNX,DM:PT-nonBNX,nonHGSC,False
+DepMap_24Q4,ACH-000657,ovary,OV_endometrioid,2D/suspension cell line (Adherent),PT-ug3gCf,DM:PT-ug3gCf,nonHGSC,False
+DepMap_24Q4,ACH-000663,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-kymkHN,DM:PT-kymkHN,nonHGSC,False
+DepMap_24Q4,ACH-000688,ovary,OV_mixed,2D/suspension cell line (Adherent),PT-iVAxAa,DM:PT-iVAxAa,nonHGSC,False
+DepMap_24Q4,ACH-000696,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-AlUnJX,DM:PT-AlUnJX,HGSC,False
+DepMap_24Q4,ACH-000701,ovary,OV_mucinous,2D/suspension cell line (Adherent),PT-ColGZ0,DM:PT-ColGZ0,nonHGSC,False
+DepMap_24Q4,ACH-000704,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-9pirK7,DM:PT-9pirK7,serous_NOS,False
+DepMap_24Q4,ACH-000713,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-FQOeFS,DM:PT-FQOeFS,HGSC,False
+DepMap_24Q4,ACH-000719,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-bnZfQQ,DM:PT-bnZfQQ,nonHGSC,False
+DepMap_24Q4,ACH-000796,ovary,OV_mucinous,2D/suspension cell line (Adherent),PT-Tlf0ul,DM:PT-Tlf0ul,nonHGSC,False
+DepMap_24Q4,ACH-000811,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-RV3Y6W,DM:PT-RV3Y6W,serous_NOS,False
+DepMap_24Q4,ACH-000831,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-cmj7jX,DM:PT-cmj7jX,EC,False
+DepMap_24Q4,ACH-000864,uterus,UT_EC_NOS,2D/suspension cell line (Suspension),PT-8fO9EH,DM:PT-8fO9EH,EC,False
+DepMap_24Q4,ACH-000879,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-wMzIqz,DM:PT-wMzIqz,EC,False
+DepMap_24Q4,ACH-000885,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-6zI98h,DM:PT-6zI98h,nonHGSC,False
+DepMap_24Q4,ACH-000906,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-rH0cpo,DM:PT-rH0cpo,nonHGSC,False
+DepMap_24Q4,ACH-000909,uterus,UT_EC_NOS,2D/suspension cell line (Mixed),PT-4c7WBs,DM:PT-4c7WBs,EC,False
+DepMap_24Q4,ACH-000928,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-C2kgmR,DM:PT-C2kgmR,EC,False
+DepMap_24Q4,ACH-000936,ovary,OV_mucinous,2D/suspension cell line (Adherent),PT-AiIzwN,DM:PT-AiIzwN,nonHGSC,False
+DepMap_24Q4,ACH-000940,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-P1Vdpe,DM:PT-P1Vdpe,EC,False
+DepMap_24Q4,ACH-000946,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-ANEQ4x,DM:PT-ANEQ4x,EC,False
+DepMap_24Q4,ACH-000947,ovary,OV_endometrioid,2D/suspension cell line (Adherent),PT-MsM9mi,DM:PT-MsM9mi,nonHGSC,False
+DepMap_24Q4,ACH-000961,uterus,UT_EC_NOS,2D/suspension cell line (Unknown),PT-P06fLR,DM:PT-P06fLR,EC,False
+DepMap_24Q4,ACH-000965,uterus,UT_adenosquamous,2D/suspension cell line (Adherent),PT-de7J0H,DM:PT-de7J0H,EC,False
+DepMap_24Q4,ACH-000966,ovary,OV_endometrioid,2D/suspension cell line (Adherent),PT-bGFaJu,DM:PT-bGFaJu,nonHGSC,False
+DepMap_24Q4,ACH-000972,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-KBFu4S,DM:PT-KBFu4S,EC,False
+DepMap_24Q4,ACH-000978,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-bmKWJL,DM:PT-bmKWJL,EC,False
+DepMap_24Q4,ACH-000984,uterus,UT_adenosquamous,2D/suspension cell line (Adherent),PT-UZ2uk5,DM:PT-UZ2uk5,EC,False
+DepMap_24Q4,ACH-000988,uterus,UT_adenosquamous,2D/suspension cell line (Adherent),PT-blqauC,DM:PT-blqauC,EC,False
+DepMap_24Q4,ACH-000990,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-7DaBfX,DM:PT-7DaBfX,EC,False
+DepMap_24Q4,ACH-000993,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-MEVEw0,DM:PT-MEVEw0,EC,False
+DepMap_24Q4,ACH-000994,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-9r7KW8,DM:PT-9r7KW8,EC,False
+DepMap_24Q4,ACH-000996,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-GnDRP6,DM:PT-GnDRP6,EC,False
+DepMap_24Q4,ACH-001048,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-gZt1Og,DM:PT-gZt1Og,serous_NOS,False
+DepMap_24Q4,ACH-001145,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-3doOpy,DM:PT-3doOpy,serous_NOS,False
+DepMap_24Q4,ACH-001151,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-u4FBpq,DM:PT-u4FBpq,HGSC,False
+DepMap_24Q4,ACH-001340,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-G1dQTb,DM:PT-G1dQTb,serous_NOS,False
+DepMap_24Q4,ACH-001369,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-0GisSs,DM:PT-0GisSs,nonHGSC,False
+DepMap_24Q4,ACH-001370,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-rC8bwa,DM:PT-rC8bwa,serous_NOS,False
+DepMap_24Q4,ACH-001373,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-ND5kWh,DM:PT-ND5kWh,serous_NOS,False
+DepMap_24Q4,ACH-001403,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-tuE0iI,DM:PT-tuE0iI,serous_NOS,False
+DepMap_24Q4,ACH-001418,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-JGzDYG,DM:PT-JGzDYG,serous_NOS,False
+DepMap_24Q4,ACH-001495,uterus,UT_carcinosarcoma,2D/suspension cell line (Adherent),PT-bHINin,DM:PT-bHINin,CS,False
+DepMap_24Q4,ACH-001517,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-YZF57N,DM:PT-YZF57N,EC,False
+DepMap_24Q4,ACH-001518,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-emUGGo,DM:PT-emUGGo,EC,False
+DepMap_24Q4,ACH-001628,ovary,OV_HGSC,2D/suspension cell line (Adherent),PT-i3tIXN,DM:PT-i3tIXN,HGSC,False
+DepMap_24Q4,ACH-001630,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-FMp5RI,DM:PT-FMp5RI,serous_NOS,False
+DepMap_24Q4,ACH-001719,ovary,OV_clear_cell,2D/suspension cell line (Adherent),PT-l7kiMr,DM:PT-l7kiMr,nonHGSC,False
+DepMap_24Q4,ACH-001991,ovary,OV_endometrioid,2D/suspension cell line (Mixed),PT-WTNLuu,DM:PT-WTNLuu,nonHGSC,False
+DepMap_24Q4,ACH-002026,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-cgXnS7,DM:PT-cgXnS7,EC,False
+DepMap_24Q4,ACH-002027,uterus,UT_EC_NOS,2D/suspension cell line (Adherent),PT-vIwQtl,DM:PT-vIwQtl,EC,False
+DepMap_24Q4,ACH-002046,uterus,UT_carcinosarcoma,2D/suspension cell line (Adherent),PT-SKC9qY,DM:PT-SKC9qY,CS,False
+DepMap_24Q4,ACH-002047,uterus,UT_carcinosarcoma,2D/suspension cell line (Adherent),PT-pzAgyf,DM:PT-pzAgyf,CS,False
+DepMap_24Q4,ACH-002486,ovary,OV_serous_NOS,2D/suspension cell line (Adherent),PT-pyZjZu,DM:PT-pyZjZu,serous_NOS,False
+DepMap_24Q4,ACH-002524,ovary,OV_endometrioid,2D/suspension cell line (Adherent),PT-itoB60,DM:PT-itoB60,nonHGSC,False
+DepMap_24Q4,ACH-002648,uterus,UT_carcinosarcoma,2D/suspension cell line (Adherent),PT-u9AiP6,DM:PT-u9AiP6,CS,False
+GSE307568,CC-CC-01,uterus,UT_carcinosarcoma,organoid,CC-CC-01,GSE307568:CC-CC-01,CS,True
+GSE307568,CC-CC-02,uterus,UT_carcinosarcoma,organoid,CC-CC-02,GSE307568:CC-CC-02,CS,True
+GSE307568,CC-CC-03,uterus,UT_endometrioid,organoid,CC-CC-03,GSE307568:CC-CC-03,EC,True
+GSE307568,CC-CC-04,uterus,UT_serous,organoid,CC-CC-04,GSE307568:CC-CC-04,EC,True
+GSE307568,CC-CC-07,uterus,UT_endometrioid,organoid,CC-CC-07,GSE307568:CC-CC-07,EC,True
+GSE307568,CC-CC-08,uterus,UT_endometrioid,organoid,CC-CC-08,GSE307568:CC-CC-08,EC,True
+GSE307568,CC-CC-09,uterus,UT_serous,organoid,CC-CC-09,GSE307568:CC-CC-09,EC,True
+GSE307568,CC-CC-10,uterus,UT_serous,organoid,CC-CC-10,GSE307568:CC-CC-10,EC,True
+GSE307568,CC-CC-14,uterus,UT_endometrioid,organoid,CC-CC-14,GSE307568:CC-CC-14,EC,True
+GSE307568,CC-CC-15,uterus,UT_carcinosarcoma,organoid,CC-CC-15,GSE307568:CC-CC-15,CS,True
+GSE307568,CC-CC-16,uterus,UT_endometrioid,organoid,CC-CC-16,GSE307568:CC-CC-16,EC,True
+GSE307568,CC-CC-17,uterus,UT_carcinosarcoma,organoid,CC-CC-17,GSE307568:CC-CC-17,CS,True
+GSE307568,CC-CC-18,uterus,UT_carcinosarcoma,organoid,CC-CC-18,GSE307568:CC-CC-18,CS,True
+GSE307568,CC-CC-19,uterus,UT_serous,organoid,CC-CC-19,GSE307568:CC-CC-19,EC,True
+GSE307568,CC-CC-21,uterus,UT_carcinosarcoma,organoid,CC-CC-21,GSE307568:CC-CC-21,CS,True
+GSE307568,CC-CC-22,uterus,UT_endometrioid,organoid,CC-CC-22,GSE307568:CC-CC-22,EC,True
+GSE307568,CC-CC-23,uterus,UT_endometrioid,organoid,CC-CC-23,GSE307568:CC-CC-23,EC,True
+GSE307568,CC-CC-24,uterus,UT_serous,organoid,CC-CC-24,GSE307568:CC-CC-24,EC,True
+GSE307568,CC-CC-25,uterus,UT_endometrioid,organoid,CC-CC-25,GSE307568:CC-CC-25,EC,True
+GSE307568,CC-CC-26,uterus,UT_dedifferentiated,organoid,CC-CC-26,GSE307568:CC-CC-26,EC,True
+GSE307568,CC-CC-27,uterus,UT_endometrioid,organoid,CC-CC-27,GSE307568:CC-CC-27,EC,True
+GSE307568,CC-CC-28,uterus,UT_endometrioid,organoid,CC-CC-28,GSE307568:CC-CC-28,EC,True
+GSE307568,CC-CC-30,uterus,UT_endometrioid,organoid,CC-CC-30,GSE307568:CC-CC-30,EC,True
+GSE307568,CC-CC-32,uterus,UT_endometrioid,organoid,CC-CC-32,GSE307568:CC-CC-32,EC,True
+GSE307568,CC-CC-33,uterus,UT_serous,organoid,CC-CC-33,GSE307568:CC-CC-33,EC,True
+GSE307568,CC-CC-34,uterus,UT_endometrioid,organoid,CC-CC-34,GSE307568:CC-CC-34,EC,True
+GSE307568,CC-CC-35,uterus,UT_serous,organoid,CC-CC-35,GSE307568:CC-CC-35,EC,True
+GSE307568,CC-CC-37,uterus,UT_serous,organoid,CC-CC-37,GSE307568:CC-CC-37,EC,True
+GSE307568,CC-CC-39,uterus,UT_endometrioid,organoid,CC-CC-39,GSE307568:CC-CC-39,EC,True
+GSE307568,CC-CC-41,uterus,UT_endometrioid,organoid,CC-CC-41,GSE307568:CC-CC-41,EC,True
+GSE307568,CC-CC-42,uterus,UT_endometrioid,organoid,CC-CC-42,GSE307568:CC-CC-42,EC,True
+GSE307568,CC-CC-43,uterus,UT_serous,organoid,CC-CC-43,GSE307568:CC-CC-43,EC,True
+GSE307568,CC-CC-44,uterus,UT_dedifferentiated,organoid,CC-CC-44,GSE307568:CC-CC-44,EC,True
+GSE307568,CC-CC-45,uterus,UT_endometrioid,organoid,CC-CC-45,GSE307568:CC-CC-45,EC,True
+GSE307568,CC-CC-46,uterus,UT_carcinosarcoma,organoid,CC-CC-46,GSE307568:CC-CC-46,CS,True
+GSE307568,CC-CC-47,uterus,UT_carcinosarcoma,organoid,CC-CC-47,GSE307568:CC-CC-47,CS,True
+GSE307568,CC-CC-48,uterus,UT_serous,organoid,CC-CC-48,GSE307568:CC-CC-48,EC,True
+GSE307568,CC-CC-49,uterus,UT_endometrioid,organoid,CC-CC-49,GSE307568:CC-CC-49,EC,True
+GSE307568,CC-CC-51,uterus,UT_endometrioid,organoid,CC-CC-51,GSE307568:CC-CC-51,EC,True
+GSE307568,CC-CC-52,uterus,UT_endometrioid,organoid,CC-CC-52,GSE307568:CC-CC-52,EC,True
+GSE307568,CC-CC-53,uterus,UT_endometrioid,organoid,CC-CC-53,GSE307568:CC-CC-53,EC,True
+Berg2021_EMTAB10664,OEC-02-G1,uterus,UT_endometrioid,organoid,OEC-02,Berg:OEC-02,EC,True
+Berg2021_EMTAB10664,OEC-04-CC,uterus,UT_clear_cell,organoid,OEC-04,Berg:OEC-04,EC,True
+Berg2021_EMTAB10664,OEC-06-G1,uterus,UT_endometrioid,organoid,OEC-06,Berg:OEC-06,EC,True
+Berg2021_EMTAB10664,OEC-07-G3,uterus,UT_endometrioid,organoid,OEC-07,Berg:OEC-07,EC,True
+Berg2021_EMTAB10664,OEC-10-SC,uterus,UT_serous,organoid,OEC-10,Berg:OEC-10,EC,True
+Berg2021_EMTAB10664,OEC-11-G3,uterus,UT_endometrioid,organoid,OEC-11,Berg:OEC-11,EC,True
+Berg2021_EMTAB10664,OEC-14-CC,uterus,UT_clear_cell,organoid,OEC-14,Berg:OEC-14,EC,True
+Berg2021_EMTAB10664,OEC-19-CS,uterus,UT_carcinosarcoma,organoid,OEC-19,Berg:OEC-19,CS,True
+Berg2021_EMTAB10664,OEC-20-G2,uterus,UT_endometrioid,organoid,OEC-20,Berg:OEC-20,EC,True
+Berg2021_EMTAB10664,OEC-23-G2,uterus,UT_endometrioid,organoid,OEC-23,Berg:OEC-23,EC,True
