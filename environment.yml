@@ -1,0 +1,16 @@
+# Conda environment used for the analysis (versions as run on 2026-10-08).
+# Create with:  conda env create -f environment.yml && conda activate gyn-model-fidelity
+name: gyn-model-fidelity
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.5
+  - pandas=3.0.6
+  - numpy=2.5.3
+  - scipy=1.18.1
+  - matplotlib=3.11.2
+  - seaborn=0.13.2     # Supplementary Fig. S7 heatmap (06_fig_hcmi_surrogate.py)
+  - pillow=12.3.0      # Supplementary Fig. S7 PDF (06_fig_hcmi_surrogate.py)
+  - openpyxl=3.1.5
+  - pyarrow=25.0.1
+  - requests=2.34.2

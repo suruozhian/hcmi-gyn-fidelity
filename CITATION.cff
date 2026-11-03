@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "hcmi-gyn-fidelity: analysis code v1.0.0"
+version: "v1.0.0"
+date-released: "2026-11-03"
+license: MIT
+doi: "10.5281/zenodo.PLACEHOLDER"
+authors:
+  - family-names: Ou
+    given-names: Yu-Hua
+    orcid: "https://orcid.org/0009-0009-5025-8994"
+    affiliation: "Department of Gynecology, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China"
+  - family-names: Du
+    given-names: Bi-Jun
+    affiliation: "Department of Gynecology, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China"
+  - family-names: Li
+    given-names: Qin
+    affiliation: "Department of Gynecology, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China"
+  - family-names: Ye
+    given-names: Li-Zhen
+    affiliation: "Department of Gynecology, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China"
+  - family-names: Shi
+    given-names: Wen-Jing
+    orcid: "https://orcid.org/0009-0007-8583-1581"
+    affiliation: "Department of Gynecology, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China"
