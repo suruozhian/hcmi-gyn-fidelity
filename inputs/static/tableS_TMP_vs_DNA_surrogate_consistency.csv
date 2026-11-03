@@ -1,0 +1,19 @@
+aliquot,stem,cohort,tmp_model_subtype,tmp_tumor_subtype,tmp_match_type,note,comparable_to_Table3_DNA_surrogate
+HCM-BROD-0650-C56-85N,HCM-BROD-0650-C56,OV,OV_1,OV_2,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-CSHL-0467-C56-85M,HCM-CSHL-0467-C56,OV,OV_1,OV_1,Match,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-CSHL-0806-C54-85A,HCM-CSHL-0806-C54,UCEC,,,,UCEC TMP not reported (NaN) in HCMI S3,False
+HCM-CSHL-0807-C54-85B,HCM-CSHL-0807-C54,UCEC,,,,UCEC TMP not reported (NaN) in HCMI S3,False
+HCM-CSHL-0808-C55-85A,HCM-CSHL-0808-C55,UCEC,,,,UCEC TMP not reported (NaN) in HCMI S3,False
+HCM-CSHL-0811-C55-85A,HCM-CSHL-0811-C55,UCEC,,,,UCEC TMP not reported (NaN) in HCMI S3,False
+HCM-CSHL-0818-C56-85P,HCM-CSHL-0818-C56,OV,OV_1,OV_4,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-CSHL-0853-C56-85B,HCM-CSHL-0853-C56,OV,OV_2,OV_4,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-CSHL-0853-C56-85D,HCM-CSHL-0853-C56,OV,OV_2,OV_4,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-CSHL-0853-C56-85F,HCM-CSHL-0853-C56,OV,OV_2,OV_3,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-CSHL-0868-C56-85A,HCM-CSHL-0868-C56,OV,OV_1,OV_4,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-WCMC-0673-C56-85A,HCM-WCMC-0673-C56,OV,OV_2,OV_4,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-WCMC-0673-C56-85B,HCM-WCMC-0673-C56,OV,OV_1,OV_4,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-WCMC-0751-C54-85A,HCM-WCMC-0751-C54,UCEC,,,,UCEC TMP not reported (NaN) in HCMI S3,False
+HCM-WCMC-0753-C54-85A,HCM-WCMC-0753-C54,UCEC,,,,UCEC TMP not reported (NaN) in HCMI S3,False
+HCM-WCMC-1074-C56-85A,HCM-WCMC-1074-C56,OV,OV_1,OV_4,Different,"OV TMP is TCGA-style expression cluster, not ProMisE/DNA-surrogate",OV_only_not_ProMisE
+HCM-WCMC-1285-C54-85A,HCM-WCMC-1285-C54,UCEC,,,,UCEC TMP not reported (NaN) in HCMI S3,False
+HCM-WCMC-1340-C54-85A,HCM-WCMC-1340-C54,UCEC,,,,UCEC TMP not reported (NaN) in HCMI S3,False

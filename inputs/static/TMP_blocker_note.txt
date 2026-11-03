@@ -1,0 +1,6 @@
+HCMI Nature Supp Table S3 "TMP membership and MoMA MR activity":
+- OV models (n=10 aliquots): TMP subtypes OV_1/OV_2 present; mostly Different from matched tumour TMP.
+- UCEC models (n=8 aliquots): tmp_model_subtype and tmp_tumor_subtype are ALL NaN — no official TMP call to compare with DNA-surrogate Table 3 (POLEmut/MMRd/p53abn/NSMP).
+- TMP here is a pan-cancer/TCGA-trained expression subtype (Methods), NOT IHC/ProMisE molecular class.
+Therefore the "consistency table" documents official TMP where available and states UCEC TMP absent; DNA-surrogate Table 3 remains the manuscript molecular-class result with CPTAC 71/81 validation.
+No additional controlled-access download was required; open S3 used.
